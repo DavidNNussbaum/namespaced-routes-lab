@@ -1,0 +1,2 @@
+class CreatePreference < ApplicationRecord
+end
