@@ -1,0 +1,2 @@
+class CreatePreferencesController < ApplicationController
+end
